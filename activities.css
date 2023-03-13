@@ -1,0 +1,48 @@
+.main-body-template{
+    position: relative;
+    top: 8.5rem;
+    display: block;
+}
+
+.lead.subpage{
+    border: 0;
+    justify-content: space-between;
+}
+
+.secondary-nav{
+    width: 18rem;
+    margin-right: 4.5rem;
+    margin-top: .5rem
+}
+
+.secondary-nav ul{
+    list-style: none;
+}
+
+.secondary-nav ul li{
+    padding: 0.5rem .5rem;
+    width: 100%;
+}
+
+#current{
+    background-color: #eeeeee;
+}
+.activities-container{
+    width: 85%;
+}
+
+.container{
+    display: flex;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.image-container.activities{
+    height: 15rem;
+}
+.parentauthor.activities{
+    width: 12.5rem;
+    height: 9.5rem;
+}
